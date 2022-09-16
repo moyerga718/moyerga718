@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Griffin Moyer</h1>
 <h3 align="center">Former geoscientist turned software developer</h3>
 
-- 🔭 I’m currently working on a full-stack text-based adventure game(https://github.com/moyerga718/masked-lands)
+- 🔭 I’m currently working on a full-stack text-based adventure game(https://github.com/moyerga718/remy_text_server)
 
 - 🌱 I’m currently learning **Python/Django**
 
