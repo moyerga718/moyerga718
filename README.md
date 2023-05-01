@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Griffin Moyer</h1>
-<h3 align="center">Former geoscientist turned software developer</h3>
-
-- 🔭 I’m currently working on a full-stack text-based adventure game(https://github.com/moyerga718/remy_text_server)
-
-- 🌱 I’m currently learning **Python/Django**
-
-- 📫 How to reach me **griffin.moyer718@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/griffin-moyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="griffin-moyer/" height="30" width="40" /></a>
